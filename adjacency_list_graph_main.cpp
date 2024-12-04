@@ -1,4 +1,3 @@
-#include <iostream>
 #include "adjacency_list_graph.h"
 
 int main() {
