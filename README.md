@@ -1,4 +1,4 @@
-# undirected_graph_implementation
+# Undirected Graph Implementation
 
 # Graph Implementation in C++
 
